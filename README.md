@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven Nguyen</h1>
 <h3 align="center">I am currently an Automation Developer, looking to further my career in Software Engineering</h3>
-<img align = "right" alt="Coding" width="400" src="https://gfycat.com/alivehauntinggavial">
+<img align = "right" alt="Coding" width="400" src="https://media.tenor.com/Ej3BJBhwt_0AAAAM/cute-kitty.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunabearfish&label=Profile%20views&color=0e75b6&style=flat" alt="tunabearfish" /> </p>
 
 - 🌱 I’m currently learning **React**
